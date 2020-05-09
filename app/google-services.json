@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367848859495",
+    "firebase_url": "https://mothersday-e1e2b.firebaseio.com",
+    "project_id": "mothersday-e1e2b",
+    "storage_bucket": "mothersday-e1e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367848859495:android:91cfb8938637f8d75fb1c2",
+        "android_client_info": {
+          "package_name": "com.rohg007.android.mothersday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367848859495-k6fkhgngr2p887fp4cknkorv69uo377k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohg007.android.mothersday",
+            "certificate_hash": "97923834290487c0b933f88814ad20e4e9f4a86f"
+          }
+        },
+        {
+          "client_id": "367848859495-i3pht4atceqscqh6vs3rb3fgoston250.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPB62-Sq0WlEhRCyhf2bn3jN53lOOgNj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367848859495-i3pht4atceqscqh6vs3rb3fgoston250.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
